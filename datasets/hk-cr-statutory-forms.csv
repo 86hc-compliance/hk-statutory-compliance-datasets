@@ -1,0 +1,10 @@
+form_code,name_zh_hans,name_zh_hant,name_en,cap622_section,filing_deadline,service_url,sample_url
+NAR1,周年申报表,周年申報表,Annual Return,Section 662,Within 42 days after the company's return date (anniversary of incorporation),https://www.86hc.com/company-annual-return,https://www.86hc.com/samples
+NNC1,法团成立表格（股份有限公司）,法團成立表格（股份有限公司）,Incorporation Form (Company Limited by Shares),Section 67(1)(b),Upon application for company incorporation,https://www.86hc.com/company-incorporation,https://www.86hc.com/samples
+NNC1G,法团成立表格（股份有限公司以外的公司）,法團成立表格（股份有限公司以外的公司）,Incorporation Form (Company Not Limited by Shares),Section 67(1)(b),Upon application for company incorporation,https://www.86hc.com/company-incorporation,https://www.86hc.com/samples
+ND2A,更改公司秘书及董事通知书（委任／停任）,更改公司秘書及董事通知書（委任／停任）,Notice of Change of Company Secretary and Director (Appointment/Cessation),Sections 645 & 652,Within 15 days after the appointment or cessation,https://www.86hc.com/company-alteration,https://www.86hc.com/samples
+ND2B,更改公司秘书及董事详情通知书,更改公司秘書及董事詳情通知書,Notice of Change in Particulars of Company Secretary and Director,Sections 645 & 652,Within 15 days after the change in particulars,https://www.86hc.com/company-alteration,https://www.86hc.com/samples
+NSC1,股份配发申报表,股份配發申報表,Return of Allotment of Shares,Section 142,Within 1 month after the allotment of shares,https://www.86hc.com/company-alteration,https://www.86hc.com/samples
+NR1,更改注册办事处地址通知书,更改註冊辦事處地址通知書,Notice of Change of Address of Registered Office,Section 658(3),Within 15 days after the change of address,https://www.86hc.com/company-alteration,
+NNC2,更改公司名称通知书,更改公司名稱通知書,Notice of Change of Company Name,Section 107(2),Within 15 days after passing the special resolution,https://www.86hc.com/company-alteration,
+NDR1,撤销注册申请书（私人公司或担保有限公司）,撤銷註冊申請書（私人公司或擔保有限公司）,Application for Deregistration of Private Company or Company Limited by Guarantee,Section 750,Within 3 months from the issue date of IRD Notice of No Objection (IR1263),https://www.86hc.com/company-alteration,
