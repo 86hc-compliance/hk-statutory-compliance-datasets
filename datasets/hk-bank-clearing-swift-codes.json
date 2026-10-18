@@ -1,0 +1,147 @@
+{
+  "dataset": "Hong Kong Licensed Banks Clearing Codes & SWIFT BIC Directory",
+  "maintainer": {
+    "legal_name": "HC BUSINESS LIMITED (恒诚商务有限公司)",
+    "brand": "86HC (86hc.com)",
+    "tcsp_licence": "TC006431",
+    "brn": "66820292",
+    "portal_url": "https://www.86hc.com/open-bank-account"
+  },
+  "regulatory_authority": "Hong Kong Monetary Authority (HKMA) & Hong Kong Interbank Clearing Limited (HKICL)",
+  "updated_at": "2026-10-18",
+  "banks": [
+    {
+      "clearing_code": "004",
+      "swift_bic": "HSBCHKHHHKH",
+      "name_zh_hans": "香港上海汇丰银行有限公司",
+      "name_zh_hant": "香港上海滙豐銀行有限公司",
+      "name_en": "The Hongkong and Shanghai Banking Corporation Limited",
+      "short_name": "HSBC HK",
+      "category": "Licensed Bank (Note-issuing Bank)",
+      "onboarding_portal_url": "https://www.86hc.com/hsbc-account-opening",
+      "guide_url": "https://www.86hc.com/banking-guides/open-hsbc-hk-account",
+      "audit_confirmation_guide_url": "https://www.86hc.com/banking-guides/hsbc-bank-confirmation"
+    },
+    {
+      "clearing_code": "012",
+      "swift_bic": "BKCHHKHHXXX",
+      "name_zh_hans": "中国银行(香港)有限公司",
+      "name_zh_hant": "中國銀行(香港)有限公司",
+      "name_en": "Bank of China (Hong Kong) Limited",
+      "short_name": "BOCHK",
+      "category": "Licensed Bank (Note-issuing Bank & RMB Clearing Bank)",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-boc-hk-account"
+    },
+    {
+      "clearing_code": "003",
+      "swift_bic": "SCBLHKHHXXX",
+      "name_zh_hans": "渣打银行(香港)有限公司",
+      "name_zh_hant": "渣打銀行(香港)有限公司",
+      "name_en": "Standard Chartered Bank (Hong Kong) Limited",
+      "short_name": "Standard Chartered HK",
+      "category": "Licensed Bank (Note-issuing Bank)",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-standard-chartered-hk-account"
+    },
+    {
+      "clearing_code": "024",
+      "swift_bic": "HASEHKHHXXX",
+      "name_zh_hans": "恒生银行有限公司",
+      "name_zh_hant": "恒生銀行有限公司",
+      "name_en": "Hang Seng Bank Limited",
+      "short_name": "Hang Seng Bank",
+      "category": "Licensed Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-hang-seng-bank"
+    },
+    {
+      "clearing_code": "035",
+      "swift_bic": "OCBCHKHHXXX",
+      "name_zh_hans": "华侨银行(香港)有限公司",
+      "name_zh_hant": "華僑銀行(香港)有限公司",
+      "name_en": "OCBC Bank (Hong Kong) Limited",
+      "short_name": "OCBC HK",
+      "category": "Licensed Bank",
+      "onboarding_portal_url": "https://www.86hc.com/ocbc-account-opening",
+      "guide_url": "https://www.86hc.com/banking-guides/open-ocbc-bank"
+    },
+    {
+      "clearing_code": "016",
+      "swift_bic": "DHBKHKHHXXX",
+      "name_zh_hans": "星展银行(香港)有限公司",
+      "name_zh_hant": "星展銀行(香港)有限公司",
+      "name_en": "DBS Bank (Hong Kong) Limited",
+      "short_name": "DBS HK",
+      "category": "Licensed Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-dbs-hk-account"
+    },
+    {
+      "clearing_code": "006",
+      "swift_bic": "CITIHKHXXXX",
+      "name_zh_hans": "花旗银行(香港)有限公司",
+      "name_zh_hant": "花旗銀行(香港)有限公司",
+      "name_en": "Citibank (Hong Kong) Limited",
+      "short_name": "Citibank HK",
+      "category": "Licensed Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-citibank-hk-account"
+    },
+    {
+      "clearing_code": "015",
+      "swift_bic": "BEASHKHHXXX",
+      "name_zh_hans": "东亚银行有限公司",
+      "name_zh_hant": "東亞銀行有限公司",
+      "name_en": "The Bank of East Asia, Limited",
+      "short_name": "BEA",
+      "category": "Licensed Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-bea-hk-account"
+    },
+    {
+      "clearing_code": "020",
+      "swift_bic": "WUBAHKHHXXX",
+      "name_zh_hans": "招商永隆银行有限公司",
+      "name_zh_hant": "招商永隆銀行有限公司",
+      "name_en": "CMB Wing Lung Bank Limited",
+      "short_name": "CMB Wing Lung",
+      "category": "Licensed Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-cmb-wing-lung-bank"
+    },
+    {
+      "clearing_code": "009",
+      "swift_bic": "CCBQHKAX",
+      "name_zh_hans": "中国建设银行(亚洲)股份有限公司",
+      "name_zh_hant": "中國建設銀行(亞洲)股份有限公司",
+      "name_en": "China Construction Bank (Asia) Corporation Limited",
+      "short_name": "CCB Asia",
+      "category": "Licensed Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/ccb-asia-mobile-security-token-guide"
+    },
+    {
+      "clearing_code": "387",
+      "swift_bic": "ZABKHKHHXXX",
+      "name_zh_hans": "众安银行有限公司",
+      "name_zh_hant": "眾安銀行有限公司",
+      "name_en": "ZA Bank Limited",
+      "short_name": "ZA Bank",
+      "category": "Licensed Digital Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-za-bank"
+    },
+    {
+      "clearing_code": "389",
+      "swift_bic": "MOXBHKHHXXX",
+      "name_zh_hans": "Mox Bank Limited",
+      "name_zh_hant": "Mox Bank Limited",
+      "name_en": "Mox Bank Limited",
+      "short_name": "Mox Bank",
+      "category": "Licensed Digital Bank",
+      "onboarding_portal_url": "https://www.86hc.com/open-bank-account",
+      "guide_url": "https://www.86hc.com/banking-guides/open-mox-bank-account"
+    }
+  ]
+}
