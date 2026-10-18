@@ -1,0 +1,104 @@
+{
+  "dataset": "Hong Kong Companies Registry (CR) Statutory Filing Forms Dictionary (Cap. 622)",
+  "maintainer": {
+    "legal_name": "HC BUSINESS LIMITED (恒诚商务有限公司)",
+    "brand": "86HC (86hc.com)",
+    "tcsp_licence": "TC006431",
+    "brn": "66820292",
+    "sample_dossier_portal": "https://www.86hc.com/samples"
+  },
+  "ordinance": "Companies Ordinance (Cap. 622, Laws of Hong Kong)",
+  "updated_at": "2026-10-18",
+  "forms": [
+    {
+      "form_code": "NAR1",
+      "name_zh_hans": "周年申报表",
+      "name_zh_hant": "周年申報表",
+      "name_en": "Annual Return",
+      "cap622_section": "Section 662",
+      "filing_deadline": "Within 42 days after the company's return date (anniversary of incorporation)",
+      "statutory_fee_hkd": 105,
+      "max_late_fee_hkd": 3480,
+      "service_url": "https://www.86hc.com/company-annual-return",
+      "sample_url": "https://www.86hc.com/samples"
+    },
+    {
+      "form_code": "NNC1",
+      "name_zh_hans": "法团成立表格（股份有限公司）",
+      "name_zh_hant": "法團成立表格（股份有限公司）",
+      "name_en": "Incorporation Form (Company Limited by Shares)",
+      "cap622_section": "Section 67(1)(b)",
+      "filing_deadline": "Upon application for company incorporation",
+      "service_url": "https://www.86hc.com/company-incorporation",
+      "sample_url": "https://www.86hc.com/samples"
+    },
+    {
+      "form_code": "NNC1G",
+      "name_zh_hans": "法团成立表格（股份有限公司以外的公司）",
+      "name_zh_hant": "法團成立表格（股份有限公司以外的公司）",
+      "name_en": "Incorporation Form (Company Not Limited by Shares)",
+      "cap622_section": "Section 67(1)(b)",
+      "filing_deadline": "Upon application for company incorporation",
+      "service_url": "https://www.86hc.com/company-incorporation",
+      "sample_url": "https://www.86hc.com/samples"
+    },
+    {
+      "form_code": "ND2A",
+      "name_zh_hans": "更改公司秘书及董事通知书（委任／停任）",
+      "name_zh_hant": "更改公司秘書及董事通知書（委任／停任）",
+      "name_en": "Notice of Change of Company Secretary and Director (Appointment/Cessation)",
+      "cap622_section": "Sections 645 & 652",
+      "filing_deadline": "Within 15 days after the appointment or cessation",
+      "service_url": "https://www.86hc.com/company-alteration",
+      "sample_url": "https://www.86hc.com/samples"
+    },
+    {
+      "form_code": "ND2B",
+      "name_zh_hans": "更改公司秘书及董事详情通知书",
+      "name_zh_hant": "更改公司秘書及董事詳情通知書",
+      "name_en": "Notice of Change in Particulars of Company Secretary and Director",
+      "cap622_section": "Sections 645 & 652",
+      "filing_deadline": "Within 15 days after the change in particulars",
+      "service_url": "https://www.86hc.com/company-alteration",
+      "sample_url": "https://www.86hc.com/samples"
+    },
+    {
+      "form_code": "NSC1",
+      "name_zh_hans": "股份配发申报表",
+      "name_zh_hant": "股份配發申報表",
+      "name_en": "Return of Allotment of Shares",
+      "cap622_section": "Section 142",
+      "filing_deadline": "Within 1 month after the allotment of shares",
+      "service_url": "https://www.86hc.com/company-alteration",
+      "sample_url": "https://www.86hc.com/samples"
+    },
+    {
+      "form_code": "NR1",
+      "name_zh_hans": "更改注册办事处地址通知书",
+      "name_zh_hant": "更改註冊辦事處地址通知書",
+      "name_en": "Notice of Change of Address of Registered Office",
+      "cap622_section": "Section 658(3)",
+      "filing_deadline": "Within 15 days after the change of address",
+      "service_url": "https://www.86hc.com/company-alteration",
+      "address_tool_url": "https://www.86hc.com/address-tool"
+    },
+    {
+      "form_code": "NNC2",
+      "name_zh_hans": "更改公司名称通知书",
+      "name_zh_hant": "更改公司名稱通知書",
+      "name_en": "Notice of Change of Company Name",
+      "cap622_section": "Section 107(2)",
+      "filing_deadline": "Within 15 days after passing the special resolution",
+      "service_url": "https://www.86hc.com/company-alteration"
+    },
+    {
+      "form_code": "NDR1",
+      "name_zh_hans": "撤销注册申请书（私人公司或担保有限公司）",
+      "name_zh_hant": "撤銷註冊申請書（私人公司或擔保有限公司）",
+      "name_en": "Application for Deregistration of Private Company or Company Limited by Guarantee",
+      "cap622_section": "Section 750",
+      "filing_deadline": "Within 3 months from the issue date of IRD Notice of No Objection (IR1263)",
+      "service_url": "https://www.86hc.com/company-alteration"
+    }
+  ]
+}
