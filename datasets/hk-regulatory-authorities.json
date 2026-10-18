@@ -1,0 +1,121 @@
+{
+  "dataset": "Hong Kong Statutory Regulatory Authorities & Public License Registries",
+  "maintainer": {
+    "legal_name": "HC BUSINESS LIMITED (恒诚商务有限公司)",
+    "brand": "86HC (86hc.com)",
+    "tcsp_licence": "TC006431",
+    "brn": "66820292",
+    "hub_url": "https://www.86hc.com/tc/regulator"
+  },
+  "updated_at": "2026-10-18",
+  "registries": [
+    {
+      "slug": "tcsp",
+      "name_zh_hant": "香港公司註冊處 · 信託或公司服務提供者持牌人名冊 (TCSP)",
+      "name_en": "Companies Registry — Trust or Company Service Providers (TCSP) Register",
+      "ordinance": "Cap. 615 Anti-Money Laundering and Counter-Terrorist Financing Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/tcsp",
+      "directory_url_sc": "https://www.86hc.com/regulator/tcsp",
+      "directory_url_en": "https://www.86hc.com/en/regulator/tcsp"
+    },
+    {
+      "slug": "sfc",
+      "name_zh_hant": "香港證券及期貨事務監察委員會 · 持牌人及註冊機構公眾紀錄冊 (SFC)",
+      "name_en": "Securities and Futures Commission (SFC) — Public Register of Licensed Persons & Registered Institutions",
+      "ordinance": "Cap. 571 Securities and Futures Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/sfc",
+      "directory_url_sc": "https://www.86hc.com/regulator/sfc",
+      "directory_url_en": "https://www.86hc.com/en/regulator/sfc"
+    },
+    {
+      "slug": "hkma",
+      "name_zh_hant": "香港金融管理局 · 認可機構及儲值支付工具持牌人紀錄冊 (HKMA)",
+      "name_en": "Hong Kong Monetary Authority (HKMA) — Register of Authorized Institutions & SVF Licensees",
+      "ordinance": "Cap. 155 Banking Ordinance & Cap. 584 Payment Systems and Stored Value Facilities Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/hkma",
+      "directory_url_sc": "https://www.86hc.com/regulator/hkma",
+      "directory_url_en": "https://www.86hc.com/en/regulator/hkma"
+    },
+    {
+      "slug": "customs-mso",
+      "name_zh_hant": "香港海關 · 金錢服務經營者牌照名冊 (MSO)",
+      "name_en": "Hong Kong Customs and Excise Department — Money Service Operators (MSO) Register",
+      "ordinance": "Cap. 615 Anti-Money Laundering and Counter-Terrorist Financing Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/customs-mso",
+      "directory_url_sc": "https://www.86hc.com/regulator/customs-mso",
+      "directory_url_en": "https://www.86hc.com/en/regulator/customs-mso"
+    },
+    {
+      "slug": "customs-dpms",
+      "name_zh_hant": "香港海關 · 貴金屬及寶石交易商註冊紀錄冊 (DPMS)",
+      "name_en": "Hong Kong Customs — Dealers in Precious Metals and Stones (DPMS) Register",
+      "ordinance": "Cap. 615 Part 5B",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/customs-dpms",
+      "directory_url_sc": "https://www.86hc.com/regulator/customs-dpms",
+      "directory_url_en": "https://www.86hc.com/en/regulator/customs-dpms"
+    },
+    {
+      "slug": "ia",
+      "name_zh_hant": "香港保險業監管局 · 獲授權保險人及持牌保險中介人名冊 (IA)",
+      "name_en": "Insurance Authority (IA) — Register of Authorized Insurers & Licensed Insurance Intermediaries",
+      "ordinance": "Cap. 41 Insurance Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/ia",
+      "directory_url_sc": "https://www.86hc.com/regulator/ia",
+      "directory_url_en": "https://www.86hc.com/en/regulator/ia"
+    },
+    {
+      "slug": "money-lenders",
+      "name_zh_hant": "香港公司註冊處 · 持牌放債人名冊 (Money Lenders)",
+      "name_en": "Companies Registry — Register of Licensed Money Lenders",
+      "ordinance": "Cap. 163 Money Lenders Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/money-lenders",
+      "directory_url_sc": "https://www.86hc.com/regulator/money-lenders",
+      "directory_url_en": "https://www.86hc.com/en/regulator/money-lenders"
+    },
+    {
+      "slug": "afrc",
+      "name_zh_hant": "會計及財務匯報局 · 執業會計師及會計師事務所名冊 (AFRC)",
+      "name_en": "Accounting and Financial Reporting Council (AFRC) — Register of CPA Firms & Practising CPAs",
+      "ordinance": "Cap. 588 Accounting and Financial Reporting Council Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/afrc",
+      "directory_url_sc": "https://www.86hc.com/regulator/afrc",
+      "directory_url_en": "https://www.86hc.com/en/regulator/afrc"
+    },
+    {
+      "slug": "law-society",
+      "name_zh_hant": "香港律師會 · 律師行及執業律師名錄 (Law Society of HK)",
+      "name_en": "The Law Society of Hong Kong — Law List & Solicitors Directory",
+      "ordinance": "Cap. 159 Legal Practitioners Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/law-society",
+      "directory_url_sc": "https://www.86hc.com/regulator/law-society",
+      "directory_url_en": "https://www.86hc.com/en/regulator/law-society"
+    },
+    {
+      "slug": "mpfa",
+      "name_zh_hant": "強制性公積金計劃管理局 · 核准受託人及強積金中介人紀錄冊 (MPFA)",
+      "name_en": "Mandatory Provident Fund Schemes Authority (MPFA) — Register of Approved Trustees & Intermediaries",
+      "ordinance": "Cap. 485 Mandatory Provident Fund Schemes Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/mpfa",
+      "directory_url_sc": "https://www.86hc.com/regulator/mpfa",
+      "directory_url_en": "https://www.86hc.com/en/regulator/mpfa"
+    },
+    {
+      "slug": "eaa",
+      "name_zh_hant": "地產代理監管局 · 持牌地產代理名冊 (EAA)",
+      "name_en": "Estate Agents Authority (EAA) — Licence List",
+      "ordinance": "Cap. 511 Estate Agents Ordinance",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/eaa",
+      "directory_url_sc": "https://www.86hc.com/regulator/eaa",
+      "directory_url_en": "https://www.86hc.com/en/regulator/eaa"
+    },
+    {
+      "slug": "ird-s88",
+      "name_zh_hant": "香港稅務局 · 根據《稅務條例》第 88 條獲豁免繳稅的慈善機構名冊",
+      "name_en": "Inland Revenue Department (IRD) — List of Charitable Institutions and Trusts of a Public Character (Section 88)",
+      "ordinance": "Cap. 112 Inland Revenue Ordinance Section 88",
+      "directory_url_tc": "https://www.86hc.com/tc/regulator/ird-s88",
+      "directory_url_sc": "https://www.86hc.com/regulator/ird-s88",
+      "directory_url_en": "https://www.86hc.com/en/regulator/ird-s88"
+    }
+  ]
+}
