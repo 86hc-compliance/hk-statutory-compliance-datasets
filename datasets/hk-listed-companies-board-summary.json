@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "publisher": "HC BUSINESS LIMITED (恒誠商務有限公司 · 86hc.com)",
+    "tcsp_licence": "TC006431",
+    "brn": "66820292",
+    "source_platform": "https://www.86hc.com",
+    "license": "CC-BY-4.0",
+    "last_updated": "2026-10-28",
+    "dataset": "Hong Kong Stock Exchange (HKEX) Active Listed Issuers Macro Breakdown",
+    "canonical_directory_en": "https://www.86hc.com/en/listed",
+    "canonical_directory_tc": "https://www.86hc.com/tc/listed",
+    "canonical_directory_sc": "https://www.86hc.com/listed"
+  },
+  "data": [
+    {
+      "board": "Main Board",
+      "total_issuers": 2519,
+      "stock_connect_eligible": 630,
+      "hang_seng_index_constituents": 75,
+      "directory_url_sc": "https://www.86hc.com/listed/main-board",
+      "directory_url_tc": "https://www.86hc.com/tc/listed/main-board",
+      "directory_url_en": "https://www.86hc.com/en/listed/main-board"
+    },
+    {
+      "board": "GEM",
+      "total_issuers": 307,
+      "stock_connect_eligible": 0,
+      "hang_seng_index_constituents": 0,
+      "directory_url_sc": "https://www.86hc.com/listed/gem",
+      "directory_url_tc": "https://www.86hc.com/tc/listed/gem",
+      "directory_url_en": "https://www.86hc.com/en/listed/gem"
+    }
+  ]
+}

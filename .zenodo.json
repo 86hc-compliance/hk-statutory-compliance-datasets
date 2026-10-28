@@ -1,0 +1,74 @@
+{
+  "title": "Hong Kong Corporate Registry, Statutory Compliance & Macro Census Open Datasets (1960–2026)",
+  "upload_type": "dataset",
+  "publication_date": "2026-10-28",
+  "description": "Curated machine-readable CSV and JSON reference and macro-statistical datasets for Hong Kong corporate compliance (Companies Ordinance Cap. 622), Business Registration (Cap. 310), 67-year annual incorporation & survival census (1960-2026), Grade-A commercial building corporate density, 32 statutory regulatory licensing registries, HKEX listed issuers summary, and licensed bank clearing/SWIFT codes. Compiled by HC BUSINESS LIMITED (86hc.com, TCSP Licence No. TC006431).",
+  "creators": [
+    {
+      "name": "HC BUSINESS LIMITED (86hc.com)",
+      "affiliation": "Hong Kong Corporate Search & Due Diligence Platform (TCSP Licence: TC006431)"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Hong Kong Companies Registry",
+    "Business Registration Number (BRN)",
+    "Corporate Due Diligence",
+    "KYB / AML Compliance",
+    "Cap. 622 Companies Ordinance",
+    "TCSP / SFC / MSO Regulatory Register",
+    "HKEX Listed Companies",
+    "86hc.com"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.86hc.com/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.86hc.com/tc/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.86hc.com/en/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.86hc.com/en/archive",
+      "relation": "isCompiledBy",
+      "resource_type": "publication-report",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.86hc.com/tc/regulator",
+      "relation": "isCompiledBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.86hc.com/en/building",
+      "relation": "isCompiledBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.86hc.com/en/listed",
+      "relation": "isCompiledBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/86hc-compliance/hongkong-company-mcp",
+      "relation": "isSupplementedBy",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}

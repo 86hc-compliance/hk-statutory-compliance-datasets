@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "publisher": "HC BUSINESS LIMITED (恒誠商務有限公司 · 86hc.com)",
+    "tcsp_licence": "TC006431",
+    "brn": "66820292",
+    "source_platform": "https://www.86hc.com",
+    "license": "CC-BY-4.0",
+    "last_updated": "2026-10-28",
+    "dataset": "Hong Kong Statutory Regulatory Authorities Licensed Entities Census",
+    "canonical_directory_en": "https://www.86hc.com/en/regulator",
+    "canonical_directory_tc": "https://www.86hc.com/tc/regulator",
+    "canonical_directory_sc": "https://www.86hc.com/regulator"
+  },
+  "data": [
+    {
+      "canonical_slug": "employment-agencies",
+      "regulator_name": "Labour Department Licensed Employment Agencies",
+      "licensed_records_count": 35171,
+      "registry_url_sc": "https://www.86hc.com/regulator/employment-agencies",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/employment-agencies",
+      "registry_url_en": "https://www.86hc.com/en/regulator/employment-agencies"
+    },
+    {
+      "canonical_slug": "food",
+      "regulator_name": "食物環境衞生署持牌食物業處所 (FEHD)",
+      "licensed_records_count": 26865,
+      "registry_url_sc": "https://www.86hc.com/regulator/food",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/food",
+      "registry_url_en": "https://www.86hc.com/en/regulator/food"
+    },
+    {
+      "canonical_slug": "electrical",
+      "regulator_name": "EMSD Registered Electrical Contractors",
+      "licensed_records_count": 15254,
+      "registry_url_sc": "https://www.86hc.com/regulator/electrical",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/electrical",
+      "registry_url_en": "https://www.86hc.com/en/regulator/electrical"
+    },
+    {
+      "canonical_slug": "law-society",
+      "regulator_name": "香港律師會執業律師 (Practising Solicitors)",
+      "licensed_records_count": 13243,
+      "registry_url_sc": "https://www.86hc.com/regulator/law-society",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/law-society",
+      "registry_url_en": "https://www.86hc.com/en/regulator/law-society"
+    },
+    {
+      "canonical_slug": "customs-dpms",
+      "regulator_name": "香港海关贵金属及宝石交易商 (DPMS)",
+      "licensed_records_count": 11812,
+      "registry_url_sc": "https://www.86hc.com/regulator/customs-dpms",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/customs-dpms",
+      "registry_url_en": "https://www.86hc.com/en/regulator/customs-dpms"
+    },
+    {
+      "canonical_slug": "tcsp",
+      "regulator_name": "香港公司注册处信托或公司服务提供者 (TCSP)",
+      "licensed_records_count": 11445,
+      "registry_url_sc": "https://www.86hc.com/regulator/tcsp",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/tcsp",
+      "registry_url_en": "https://www.86hc.com/en/regulator/tcsp"
+    },
+    {
+      "canonical_slug": "ia",
+      "regulator_name": "IA Register of Licensed Insurance Agencies and Broker Companies",
+      "licensed_records_count": 9986,
+      "registry_url_sc": "https://www.86hc.com/regulator/ia",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/ia",
+      "registry_url_en": "https://www.86hc.com/en/regulator/ia"
+    },
+    {
+      "canonical_slug": "liquor",
+      "regulator_name": "Liquor Licensing Board Licensed Premises",
+      "licensed_records_count": 9368,
+      "registry_url_sc": "https://www.86hc.com/regulator/liquor",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/liquor",
+      "registry_url_en": "https://www.86hc.com/en/regulator/liquor"
+    },
+    {
+      "canonical_slug": "cmro",
+      "regulator_name": "Chinese Medicine Council Licensed Traders",
+      "licensed_records_count": 8260,
+      "registry_url_sc": "https://www.86hc.com/regulator/cmro",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/cmro",
+      "registry_url_en": "https://www.86hc.com/en/regulator/cmro"
+    },
+    {
+      "canonical_slug": "money-lenders",
+      "regulator_name": "CR Expired Money Lenders Licences",
+      "licensed_records_count": 6903,
+      "registry_url_sc": "https://www.86hc.com/regulator/money-lenders",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/money-lenders",
+      "registry_url_en": "https://www.86hc.com/en/regulator/money-lenders"
+    },
+    {
+      "canonical_slug": "telecom",
+      "regulator_name": "OFCA Radio Dealer (Unrestricted) Licensees",
+      "licensed_records_count": 5988,
+      "registry_url_sc": "https://www.86hc.com/regulator/telecom",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/telecom",
+      "registry_url_en": "https://www.86hc.com/en/regulator/telecom"
+    },
+    {
+      "canonical_slug": "sfc",
+      "regulator_name": "香港证券及期货事务监察委员会 (SFC)",
+      "licensed_records_count": 5823,
+      "registry_url_sc": "https://www.86hc.com/regulator/sfc",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/sfc",
+      "registry_url_en": "https://www.86hc.com/en/regulator/sfc"
+    },
+    {
+      "canonical_slug": "gas-installer",
+      "regulator_name": "機電工程署註冊氣體裝置技工 (EMSD)",
+      "licensed_records_count": 5160,
+      "registry_url_sc": "https://www.86hc.com/regulator/gas-installer",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/gas-installer",
+      "registry_url_en": "https://www.86hc.com/en/regulator/gas-installer"
+    },
+    {
+      "canonical_slug": "education",
+      "regulator_name": "EDB Registered Schools",
+      "licensed_records_count": 4940,
+      "registry_url_sc": "https://www.86hc.com/regulator/education",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/education",
+      "registry_url_en": "https://www.86hc.com/en/regulator/education"
+    },
+    {
+      "canonical_slug": "eaa",
+      "regulator_name": "地產代理監管局 (EAA)",
+      "licensed_records_count": 3671,
+      "registry_url_sc": "https://www.86hc.com/regulator/eaa",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/eaa",
+      "registry_url_en": "https://www.86hc.com/en/regulator/eaa"
+    },
+    {
+      "canonical_slug": "hotel",
+      "regulator_name": "List of Licensed Hotels and Guesthouses",
+      "licensed_records_count": 2328,
+      "registry_url_sc": "https://www.86hc.com/regulator/hotel",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/hotel",
+      "registry_url_en": "https://www.86hc.com/en/regulator/hotel"
+    },
+    {
+      "canonical_slug": "afrc",
+      "regulator_name": "香港会计及财务汇报局 (AFRC)",
+      "licensed_records_count": 1992,
+      "registry_url_sc": "https://www.86hc.com/regulator/afrc",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/afrc",
+      "registry_url_en": "https://www.86hc.com/en/regulator/afrc"
+    },
+    {
+      "canonical_slug": "travel-agent",
+      "regulator_name": "TIA Register of Travel Agent Licences",
+      "licensed_records_count": 1900,
+      "registry_url_sc": "https://www.86hc.com/regulator/travel-agent",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/travel-agent",
+      "registry_url_en": "https://www.86hc.com/en/regulator/travel-agent"
+    },
+    {
+      "canonical_slug": "hkba",
+      "regulator_name": "香港大律師公會執業大律師 (Hong Kong Bar Association)",
+      "licensed_records_count": 1834,
+      "registry_url_sc": "https://www.86hc.com/regulator/hkba",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/hkba",
+      "registry_url_en": "https://www.86hc.com/en/regulator/hkba"
+    },
+    {
+      "canonical_slug": "dh",
+      "regulator_name": "Drug Office Licensed Drug Dealers",
+      "licensed_records_count": 1821,
+      "registry_url_sc": "https://www.86hc.com/regulator/dh",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/dh",
+      "registry_url_en": "https://www.86hc.com/en/regulator/dh"
+    },
+    {
+      "canonical_slug": "security",
+      "regulator_name": "SGSIA Licensed Security Companies",
+      "licensed_records_count": 1484,
+      "registry_url_sc": "https://www.86hc.com/regulator/security",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/security",
+      "registry_url_en": "https://www.86hc.com/en/regulator/security"
+    },
+    {
+      "canonical_slug": "property-mgmt",
+      "regulator_name": "PMSA Licensed Property Management Companies",
+      "licensed_records_count": 832,
+      "registry_url_sc": "https://www.86hc.com/regulator/property-mgmt",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/property-mgmt",
+      "registry_url_en": "https://www.86hc.com/en/regulator/property-mgmt"
+    },
+    {
+      "canonical_slug": "trade-org",
+      "regulator_name": "TID Directory of Hong Kong Trade and Industrial Organisations",
+      "licensed_records_count": 667,
+      "registry_url_sc": "https://www.86hc.com/regulator/trade-org",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/trade-org",
+      "registry_url_en": "https://www.86hc.com/en/regulator/trade-org"
+    },
+    {
+      "canonical_slug": "customs-mso",
+      "regulator_name": "香港海關金錢服務經營者 (MSO)",
+      "licensed_records_count": 616,
+      "registry_url_sc": "https://www.86hc.com/regulator/customs-mso",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/customs-mso",
+      "registry_url_en": "https://www.86hc.com/en/regulator/customs-mso"
+    },
+    {
+      "canonical_slug": "plumbing",
+      "regulator_name": "香港水务署注册水喉承建商名册",
+      "licensed_records_count": 512,
+      "registry_url_sc": "https://www.86hc.com/regulator/plumbing",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/plumbing",
+      "registry_url_en": "https://www.86hc.com/en/regulator/plumbing"
+    },
+    {
+      "canonical_slug": "mpfa",
+      "regulator_name": "MPFA Register of Principal Intermediaries",
+      "licensed_records_count": 486,
+      "registry_url_sc": "https://www.86hc.com/regulator/mpfa",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/mpfa",
+      "registry_url_en": "https://www.86hc.com/en/regulator/mpfa"
+    },
+    {
+      "canonical_slug": "isp",
+      "regulator_name": "OFCA Internet Service Providers",
+      "licensed_records_count": 377,
+      "registry_url_sc": "https://www.86hc.com/regulator/isp",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/isp",
+      "registry_url_en": "https://www.86hc.com/en/regulator/isp"
+    },
+    {
+      "canonical_slug": "laboratory",
+      "regulator_name": "HKAS Accredited Laboratories (HOKLAS)",
+      "licensed_records_count": 287,
+      "registry_url_sc": "https://www.86hc.com/regulator/laboratory",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/laboratory",
+      "registry_url_en": "https://www.86hc.com/en/regulator/laboratory"
+    },
+    {
+      "canonical_slug": "hkma",
+      "regulator_name": "HKMA Register of AIs and LROs",
+      "licensed_records_count": 225,
+      "registry_url_sc": "https://www.86hc.com/regulator/hkma",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/hkma",
+      "registry_url_en": "https://www.86hc.com/en/regulator/hkma"
+    },
+    {
+      "canonical_slug": "maritime",
+      "regulator_name": "Marine Department Shipping Companies Directory",
+      "licensed_records_count": 84,
+      "registry_url_sc": "https://www.86hc.com/regulator/maritime",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/maritime",
+      "registry_url_en": "https://www.86hc.com/en/regulator/maritime"
+    },
+    {
+      "canonical_slug": "lift",
+      "regulator_name": "EMSD Registered Lift Contractors",
+      "licensed_records_count": 76,
+      "registry_url_sc": "https://www.86hc.com/regulator/lift",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/lift",
+      "registry_url_en": "https://www.86hc.com/en/regulator/lift"
+    },
+    {
+      "canonical_slug": "oro",
+      "regulator_name": "破產管理署 (清盤外判機構 Panel A/T)",
+      "licensed_records_count": 29,
+      "registry_url_sc": "https://www.86hc.com/regulator/oro",
+      "registry_url_tc": "https://www.86hc.com/tc/regulator/oro",
+      "registry_url_en": "https://www.86hc.com/en/regulator/oro"
+    }
+  ]
+}

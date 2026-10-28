@@ -1,0 +1,686 @@
+{
+  "metadata": {
+    "publisher": "HC BUSINESS LIMITED (恒誠商務有限公司 · 86hc.com)",
+    "tcsp_licence": "TC006431",
+    "brn": "66820292",
+    "source_platform": "https://www.86hc.com",
+    "license": "CC-BY-4.0",
+    "last_updated": "2026-10-28",
+    "dataset": "Hong Kong Annual Corporate Incorporation & Survival Rate Macro Statistics (1960–2026)",
+    "canonical_directory_en": "https://www.86hc.com/en/archive",
+    "canonical_directory_tc": "https://www.86hc.com/tc/archive",
+    "canonical_directory_sc": "https://www.86hc.com/archive"
+  },
+  "data": [
+    {
+      "incorporation_year": 2026,
+      "total_incorporated": 193619,
+      "live_active_count": 193465,
+      "dissolved_or_inactive_count": 154,
+      "active_retention_rate_pct": 99.92,
+      "archive_url_en": "https://www.86hc.com/en/archive/2026",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2026",
+      "archive_url_sc": "https://www.86hc.com/archive/2026"
+    },
+    {
+      "incorporation_year": 2025,
+      "total_incorporated": 199440,
+      "live_active_count": 197057,
+      "dissolved_or_inactive_count": 2383,
+      "active_retention_rate_pct": 98.81,
+      "archive_url_en": "https://www.86hc.com/en/archive/2025",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2025",
+      "archive_url_sc": "https://www.86hc.com/archive/2025"
+    },
+    {
+      "incorporation_year": 2024,
+      "total_incorporated": 147790,
+      "live_active_count": 136060,
+      "dissolved_or_inactive_count": 11730,
+      "active_retention_rate_pct": 92.06,
+      "archive_url_en": "https://www.86hc.com/en/archive/2024",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2024",
+      "archive_url_sc": "https://www.86hc.com/archive/2024"
+    },
+    {
+      "incorporation_year": 2023,
+      "total_incorporated": 133843,
+      "live_active_count": 108440,
+      "dissolved_or_inactive_count": 25403,
+      "active_retention_rate_pct": 81.02,
+      "archive_url_en": "https://www.86hc.com/en/archive/2023",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2023",
+      "archive_url_sc": "https://www.86hc.com/archive/2023"
+    },
+    {
+      "incorporation_year": 2022,
+      "total_incorporated": 106771,
+      "live_active_count": 73744,
+      "dissolved_or_inactive_count": 33027,
+      "active_retention_rate_pct": 69.07,
+      "archive_url_en": "https://www.86hc.com/en/archive/2022",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2022",
+      "archive_url_sc": "https://www.86hc.com/archive/2022"
+    },
+    {
+      "incorporation_year": 2021,
+      "total_incorporated": 112573,
+      "live_active_count": 70977,
+      "dissolved_or_inactive_count": 41596,
+      "active_retention_rate_pct": 63.05,
+      "archive_url_en": "https://www.86hc.com/en/archive/2021",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2021",
+      "archive_url_sc": "https://www.86hc.com/archive/2021"
+    },
+    {
+      "incorporation_year": 2020,
+      "total_incorporated": 101278,
+      "live_active_count": 59471,
+      "dissolved_or_inactive_count": 41807,
+      "active_retention_rate_pct": 58.72,
+      "archive_url_en": "https://www.86hc.com/en/archive/2020",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2020",
+      "archive_url_sc": "https://www.86hc.com/archive/2020"
+    },
+    {
+      "incorporation_year": 2019,
+      "total_incorporated": 126530,
+      "live_active_count": 84402,
+      "dissolved_or_inactive_count": 42128,
+      "active_retention_rate_pct": 66.71,
+      "archive_url_en": "https://www.86hc.com/en/archive/2019",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2019",
+      "archive_url_sc": "https://www.86hc.com/archive/2019"
+    },
+    {
+      "incorporation_year": 2018,
+      "total_incorporated": 153310,
+      "live_active_count": 77880,
+      "dissolved_or_inactive_count": 75430,
+      "active_retention_rate_pct": 50.8,
+      "archive_url_en": "https://www.86hc.com/en/archive/2018",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2018",
+      "archive_url_sc": "https://www.86hc.com/archive/2018"
+    },
+    {
+      "incorporation_year": 2017,
+      "total_incorporated": 161793,
+      "live_active_count": 74694,
+      "dissolved_or_inactive_count": 87099,
+      "active_retention_rate_pct": 46.17,
+      "archive_url_en": "https://www.86hc.com/en/archive/2017",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2017",
+      "archive_url_sc": "https://www.86hc.com/archive/2017"
+    },
+    {
+      "incorporation_year": 2016,
+      "total_incorporated": 142492,
+      "live_active_count": 53689,
+      "dissolved_or_inactive_count": 88803,
+      "active_retention_rate_pct": 37.68,
+      "archive_url_en": "https://www.86hc.com/en/archive/2016",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2016",
+      "archive_url_sc": "https://www.86hc.com/archive/2016"
+    },
+    {
+      "incorporation_year": 2015,
+      "total_incorporated": 127281,
+      "live_active_count": 52104,
+      "dissolved_or_inactive_count": 75177,
+      "active_retention_rate_pct": 40.94,
+      "archive_url_en": "https://www.86hc.com/en/archive/2015",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2015",
+      "archive_url_sc": "https://www.86hc.com/archive/2015"
+    },
+    {
+      "incorporation_year": 2014,
+      "total_incorporated": 165535,
+      "live_active_count": 52126,
+      "dissolved_or_inactive_count": 113409,
+      "active_retention_rate_pct": 31.49,
+      "archive_url_en": "https://www.86hc.com/en/archive/2014",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2014",
+      "archive_url_sc": "https://www.86hc.com/archive/2014"
+    },
+    {
+      "incorporation_year": 2013,
+      "total_incorporated": 166781,
+      "live_active_count": 50815,
+      "dissolved_or_inactive_count": 115966,
+      "active_retention_rate_pct": 30.47,
+      "archive_url_en": "https://www.86hc.com/en/archive/2013",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2013",
+      "archive_url_sc": "https://www.86hc.com/archive/2013"
+    },
+    {
+      "incorporation_year": 2012,
+      "total_incorporated": 142348,
+      "live_active_count": 45148,
+      "dissolved_or_inactive_count": 97200,
+      "active_retention_rate_pct": 31.72,
+      "archive_url_en": "https://www.86hc.com/en/archive/2012",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2012",
+      "archive_url_sc": "https://www.86hc.com/archive/2012"
+    },
+    {
+      "incorporation_year": 2011,
+      "total_incorporated": 141051,
+      "live_active_count": 42609,
+      "dissolved_or_inactive_count": 98442,
+      "active_retention_rate_pct": 30.21,
+      "archive_url_en": "https://www.86hc.com/en/archive/2011",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2011",
+      "archive_url_sc": "https://www.86hc.com/archive/2011"
+    },
+    {
+      "incorporation_year": 2010,
+      "total_incorporated": 130870,
+      "live_active_count": 40096,
+      "dissolved_or_inactive_count": 90774,
+      "active_retention_rate_pct": 30.64,
+      "archive_url_en": "https://www.86hc.com/en/archive/2010",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2010",
+      "archive_url_sc": "https://www.86hc.com/archive/2010"
+    },
+    {
+      "incorporation_year": 2009,
+      "total_incorporated": 101490,
+      "live_active_count": 30786,
+      "dissolved_or_inactive_count": 70704,
+      "active_retention_rate_pct": 30.33,
+      "archive_url_en": "https://www.86hc.com/en/archive/2009",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2009",
+      "archive_url_sc": "https://www.86hc.com/archive/2009"
+    },
+    {
+      "incorporation_year": 2008,
+      "total_incorporated": 95248,
+      "live_active_count": 25136,
+      "dissolved_or_inactive_count": 70112,
+      "active_retention_rate_pct": 26.39,
+      "archive_url_en": "https://www.86hc.com/en/archive/2008",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2008",
+      "archive_url_sc": "https://www.86hc.com/archive/2008"
+    },
+    {
+      "incorporation_year": 2007,
+      "total_incorporated": 96636,
+      "live_active_count": 27848,
+      "dissolved_or_inactive_count": 68788,
+      "active_retention_rate_pct": 28.82,
+      "archive_url_en": "https://www.86hc.com/en/archive/2007",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2007",
+      "archive_url_sc": "https://www.86hc.com/archive/2007"
+    },
+    {
+      "incorporation_year": 2006,
+      "total_incorporated": 79819,
+      "live_active_count": 20313,
+      "dissolved_or_inactive_count": 59506,
+      "active_retention_rate_pct": 25.45,
+      "archive_url_en": "https://www.86hc.com/en/archive/2006",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2006",
+      "archive_url_sc": "https://www.86hc.com/archive/2006"
+    },
+    {
+      "incorporation_year": 2005,
+      "total_incorporated": 72909,
+      "live_active_count": 18420,
+      "dissolved_or_inactive_count": 54489,
+      "active_retention_rate_pct": 25.26,
+      "archive_url_en": "https://www.86hc.com/en/archive/2005",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2005",
+      "archive_url_sc": "https://www.86hc.com/archive/2005"
+    },
+    {
+      "incorporation_year": 2004,
+      "total_incorporated": 65527,
+      "live_active_count": 16494,
+      "dissolved_or_inactive_count": 49033,
+      "active_retention_rate_pct": 25.17,
+      "archive_url_en": "https://www.86hc.com/en/archive/2004",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2004",
+      "archive_url_sc": "https://www.86hc.com/archive/2004"
+    },
+    {
+      "incorporation_year": 2003,
+      "total_incorporated": 50004,
+      "live_active_count": 12443,
+      "dissolved_or_inactive_count": 37561,
+      "active_retention_rate_pct": 24.88,
+      "archive_url_en": "https://www.86hc.com/en/archive/2003",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2003",
+      "archive_url_sc": "https://www.86hc.com/archive/2003"
+    },
+    {
+      "incorporation_year": 2002,
+      "total_incorporated": 46515,
+      "live_active_count": 10747,
+      "dissolved_or_inactive_count": 35768,
+      "active_retention_rate_pct": 23.1,
+      "archive_url_en": "https://www.86hc.com/en/archive/2002",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2002",
+      "archive_url_sc": "https://www.86hc.com/archive/2002"
+    },
+    {
+      "incorporation_year": 2001,
+      "total_incorporated": 38229,
+      "live_active_count": 8663,
+      "dissolved_or_inactive_count": 29566,
+      "active_retention_rate_pct": 22.66,
+      "archive_url_en": "https://www.86hc.com/en/archive/2001",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2001",
+      "archive_url_sc": "https://www.86hc.com/archive/2001"
+    },
+    {
+      "incorporation_year": 2000,
+      "total_incorporated": 43324,
+      "live_active_count": 9489,
+      "dissolved_or_inactive_count": 33835,
+      "active_retention_rate_pct": 21.9,
+      "archive_url_en": "https://www.86hc.com/en/archive/2000",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/2000",
+      "archive_url_sc": "https://www.86hc.com/archive/2000"
+    },
+    {
+      "incorporation_year": 1999,
+      "total_incorporated": 35533,
+      "live_active_count": 7938,
+      "dissolved_or_inactive_count": 27595,
+      "active_retention_rate_pct": 22.34,
+      "archive_url_en": "https://www.86hc.com/en/archive/1999",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1999",
+      "archive_url_sc": "https://www.86hc.com/archive/1999"
+    },
+    {
+      "incorporation_year": 1998,
+      "total_incorporated": 29923,
+      "live_active_count": 6381,
+      "dissolved_or_inactive_count": 23542,
+      "active_retention_rate_pct": 21.32,
+      "archive_url_en": "https://www.86hc.com/en/archive/1998",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1998",
+      "archive_url_sc": "https://www.86hc.com/archive/1998"
+    },
+    {
+      "incorporation_year": 1997,
+      "total_incorporated": 49233,
+      "live_active_count": 9304,
+      "dissolved_or_inactive_count": 39929,
+      "active_retention_rate_pct": 18.9,
+      "archive_url_en": "https://www.86hc.com/en/archive/1997",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1997",
+      "archive_url_sc": "https://www.86hc.com/archive/1997"
+    },
+    {
+      "incorporation_year": 1996,
+      "total_incorporated": 49701,
+      "live_active_count": 9325,
+      "dissolved_or_inactive_count": 40376,
+      "active_retention_rate_pct": 18.76,
+      "archive_url_en": "https://www.86hc.com/en/archive/1996",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1996",
+      "archive_url_sc": "https://www.86hc.com/archive/1996"
+    },
+    {
+      "incorporation_year": 1995,
+      "total_incorporated": 32983,
+      "live_active_count": 6008,
+      "dissolved_or_inactive_count": 26975,
+      "active_retention_rate_pct": 18.22,
+      "archive_url_en": "https://www.86hc.com/en/archive/1995",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1995",
+      "archive_url_sc": "https://www.86hc.com/archive/1995"
+    },
+    {
+      "incorporation_year": 1994,
+      "total_incorporated": 42688,
+      "live_active_count": 7213,
+      "dissolved_or_inactive_count": 35475,
+      "active_retention_rate_pct": 16.9,
+      "archive_url_en": "https://www.86hc.com/en/archive/1994",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1994",
+      "archive_url_sc": "https://www.86hc.com/archive/1994"
+    },
+    {
+      "incorporation_year": 1993,
+      "total_incorporated": 61785,
+      "live_active_count": 9736,
+      "dissolved_or_inactive_count": 52049,
+      "active_retention_rate_pct": 15.76,
+      "archive_url_en": "https://www.86hc.com/en/archive/1993",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1993",
+      "archive_url_sc": "https://www.86hc.com/archive/1993"
+    },
+    {
+      "incorporation_year": 1992,
+      "total_incorporated": 58061,
+      "live_active_count": 9119,
+      "dissolved_or_inactive_count": 48942,
+      "active_retention_rate_pct": 15.71,
+      "archive_url_en": "https://www.86hc.com/en/archive/1992",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1992",
+      "archive_url_sc": "https://www.86hc.com/archive/1992"
+    },
+    {
+      "incorporation_year": 1991,
+      "total_incorporated": 43950,
+      "live_active_count": 8062,
+      "dissolved_or_inactive_count": 35888,
+      "active_retention_rate_pct": 18.34,
+      "archive_url_en": "https://www.86hc.com/en/archive/1991",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1991",
+      "archive_url_sc": "https://www.86hc.com/archive/1991"
+    },
+    {
+      "incorporation_year": 1990,
+      "total_incorporated": 26148,
+      "live_active_count": 4509,
+      "dissolved_or_inactive_count": 21639,
+      "active_retention_rate_pct": 17.24,
+      "archive_url_en": "https://www.86hc.com/en/archive/1990",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1990",
+      "archive_url_sc": "https://www.86hc.com/archive/1990"
+    },
+    {
+      "incorporation_year": 1989,
+      "total_incorporated": 31673,
+      "live_active_count": 5395,
+      "dissolved_or_inactive_count": 26278,
+      "active_retention_rate_pct": 17.03,
+      "archive_url_en": "https://www.86hc.com/en/archive/1989",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1989",
+      "archive_url_sc": "https://www.86hc.com/archive/1989"
+    },
+    {
+      "incorporation_year": 1988,
+      "total_incorporated": 30474,
+      "live_active_count": 5313,
+      "dissolved_or_inactive_count": 25161,
+      "active_retention_rate_pct": 17.43,
+      "archive_url_en": "https://www.86hc.com/en/archive/1988",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1988",
+      "archive_url_sc": "https://www.86hc.com/archive/1988"
+    },
+    {
+      "incorporation_year": 1987,
+      "total_incorporated": 26364,
+      "live_active_count": 4573,
+      "dissolved_or_inactive_count": 21791,
+      "active_retention_rate_pct": 17.35,
+      "archive_url_en": "https://www.86hc.com/en/archive/1987",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1987",
+      "archive_url_sc": "https://www.86hc.com/archive/1987"
+    },
+    {
+      "incorporation_year": 1986,
+      "total_incorporated": 16738,
+      "live_active_count": 3032,
+      "dissolved_or_inactive_count": 13706,
+      "active_retention_rate_pct": 18.11,
+      "archive_url_en": "https://www.86hc.com/en/archive/1986",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1986",
+      "archive_url_sc": "https://www.86hc.com/archive/1986"
+    },
+    {
+      "incorporation_year": 1985,
+      "total_incorporated": 18446,
+      "live_active_count": 3099,
+      "dissolved_or_inactive_count": 15347,
+      "active_retention_rate_pct": 16.8,
+      "archive_url_en": "https://www.86hc.com/en/archive/1985",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1985",
+      "archive_url_sc": "https://www.86hc.com/archive/1985"
+    },
+    {
+      "incorporation_year": 1984,
+      "total_incorporated": 13424,
+      "live_active_count": 2135,
+      "dissolved_or_inactive_count": 11289,
+      "active_retention_rate_pct": 15.9,
+      "archive_url_en": "https://www.86hc.com/en/archive/1984",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1984",
+      "archive_url_sc": "https://www.86hc.com/archive/1984"
+    },
+    {
+      "incorporation_year": 1983,
+      "total_incorporated": 11554,
+      "live_active_count": 1734,
+      "dissolved_or_inactive_count": 9820,
+      "active_retention_rate_pct": 15.01,
+      "archive_url_en": "https://www.86hc.com/en/archive/1983",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1983",
+      "archive_url_sc": "https://www.86hc.com/archive/1983"
+    },
+    {
+      "incorporation_year": 1982,
+      "total_incorporated": 12963,
+      "live_active_count": 1899,
+      "dissolved_or_inactive_count": 11064,
+      "active_retention_rate_pct": 14.65,
+      "archive_url_en": "https://www.86hc.com/en/archive/1982",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1982",
+      "archive_url_sc": "https://www.86hc.com/archive/1982"
+    },
+    {
+      "incorporation_year": 1981,
+      "total_incorporated": 15868,
+      "live_active_count": 2279,
+      "dissolved_or_inactive_count": 13589,
+      "active_retention_rate_pct": 14.36,
+      "archive_url_en": "https://www.86hc.com/en/archive/1981",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1981",
+      "archive_url_sc": "https://www.86hc.com/archive/1981"
+    },
+    {
+      "incorporation_year": 1980,
+      "total_incorporated": 14587,
+      "live_active_count": 2217,
+      "dissolved_or_inactive_count": 12370,
+      "active_retention_rate_pct": 15.2,
+      "archive_url_en": "https://www.86hc.com/en/archive/1980",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1980",
+      "archive_url_sc": "https://www.86hc.com/archive/1980"
+    },
+    {
+      "incorporation_year": 1979,
+      "total_incorporated": 10272,
+      "live_active_count": 1522,
+      "dissolved_or_inactive_count": 8750,
+      "active_retention_rate_pct": 14.82,
+      "archive_url_en": "https://www.86hc.com/en/archive/1979",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1979",
+      "archive_url_sc": "https://www.86hc.com/archive/1979"
+    },
+    {
+      "incorporation_year": 1978,
+      "total_incorporated": 8837,
+      "live_active_count": 1372,
+      "dissolved_or_inactive_count": 7465,
+      "active_retention_rate_pct": 15.53,
+      "archive_url_en": "https://www.86hc.com/en/archive/1978",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1978",
+      "archive_url_sc": "https://www.86hc.com/archive/1978"
+    },
+    {
+      "incorporation_year": 1977,
+      "total_incorporated": 6777,
+      "live_active_count": 1083,
+      "dissolved_or_inactive_count": 5694,
+      "active_retention_rate_pct": 15.98,
+      "archive_url_en": "https://www.86hc.com/en/archive/1977",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1977",
+      "archive_url_sc": "https://www.86hc.com/archive/1977"
+    },
+    {
+      "incorporation_year": 1976,
+      "total_incorporated": 5473,
+      "live_active_count": 831,
+      "dissolved_or_inactive_count": 4642,
+      "active_retention_rate_pct": 15.18,
+      "archive_url_en": "https://www.86hc.com/en/archive/1976",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1976",
+      "archive_url_sc": "https://www.86hc.com/archive/1976"
+    },
+    {
+      "incorporation_year": 1975,
+      "total_incorporated": 4164,
+      "live_active_count": 604,
+      "dissolved_or_inactive_count": 3560,
+      "active_retention_rate_pct": 14.51,
+      "archive_url_en": "https://www.86hc.com/en/archive/1975",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1975",
+      "archive_url_sc": "https://www.86hc.com/archive/1975"
+    },
+    {
+      "incorporation_year": 1974,
+      "total_incorporated": 4565,
+      "live_active_count": 614,
+      "dissolved_or_inactive_count": 3951,
+      "active_retention_rate_pct": 13.45,
+      "archive_url_en": "https://www.86hc.com/en/archive/1974",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1974",
+      "archive_url_sc": "https://www.86hc.com/archive/1974"
+    },
+    {
+      "incorporation_year": 1973,
+      "total_incorporated": 5534,
+      "live_active_count": 867,
+      "dissolved_or_inactive_count": 4667,
+      "active_retention_rate_pct": 15.67,
+      "archive_url_en": "https://www.86hc.com/en/archive/1973",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1973",
+      "archive_url_sc": "https://www.86hc.com/archive/1973"
+    },
+    {
+      "incorporation_year": 1972,
+      "total_incorporated": 5033,
+      "live_active_count": 1002,
+      "dissolved_or_inactive_count": 4031,
+      "active_retention_rate_pct": 19.91,
+      "archive_url_en": "https://www.86hc.com/en/archive/1972",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1972",
+      "archive_url_sc": "https://www.86hc.com/archive/1972"
+    },
+    {
+      "incorporation_year": 1971,
+      "total_incorporated": 4005,
+      "live_active_count": 747,
+      "dissolved_or_inactive_count": 3258,
+      "active_retention_rate_pct": 18.65,
+      "archive_url_en": "https://www.86hc.com/en/archive/1971",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1971",
+      "archive_url_sc": "https://www.86hc.com/archive/1971"
+    },
+    {
+      "incorporation_year": 1970,
+      "total_incorporated": 3426,
+      "live_active_count": 568,
+      "dissolved_or_inactive_count": 2858,
+      "active_retention_rate_pct": 16.58,
+      "archive_url_en": "https://www.86hc.com/en/archive/1970",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1970",
+      "archive_url_sc": "https://www.86hc.com/archive/1970"
+    },
+    {
+      "incorporation_year": 1969,
+      "total_incorporated": 2548,
+      "live_active_count": 414,
+      "dissolved_or_inactive_count": 2134,
+      "active_retention_rate_pct": 16.25,
+      "archive_url_en": "https://www.86hc.com/en/archive/1969",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1969",
+      "archive_url_sc": "https://www.86hc.com/archive/1969"
+    },
+    {
+      "incorporation_year": 1968,
+      "total_incorporated": 1681,
+      "live_active_count": 264,
+      "dissolved_or_inactive_count": 1417,
+      "active_retention_rate_pct": 15.7,
+      "archive_url_en": "https://www.86hc.com/en/archive/1968",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1968",
+      "archive_url_sc": "https://www.86hc.com/archive/1968"
+    },
+    {
+      "incorporation_year": 1967,
+      "total_incorporated": 1242,
+      "live_active_count": 212,
+      "dissolved_or_inactive_count": 1030,
+      "active_retention_rate_pct": 17.07,
+      "archive_url_en": "https://www.86hc.com/en/archive/1967",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1967",
+      "archive_url_sc": "https://www.86hc.com/archive/1967"
+    },
+    {
+      "incorporation_year": 1966,
+      "total_incorporated": 1386,
+      "live_active_count": 247,
+      "dissolved_or_inactive_count": 1139,
+      "active_retention_rate_pct": 17.82,
+      "archive_url_en": "https://www.86hc.com/en/archive/1966",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1966",
+      "archive_url_sc": "https://www.86hc.com/archive/1966"
+    },
+    {
+      "incorporation_year": 1965,
+      "total_incorporated": 1259,
+      "live_active_count": 230,
+      "dissolved_or_inactive_count": 1029,
+      "active_retention_rate_pct": 18.27,
+      "archive_url_en": "https://www.86hc.com/en/archive/1965",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1965",
+      "archive_url_sc": "https://www.86hc.com/archive/1965"
+    },
+    {
+      "incorporation_year": 1964,
+      "total_incorporated": 1448,
+      "live_active_count": 276,
+      "dissolved_or_inactive_count": 1172,
+      "active_retention_rate_pct": 19.06,
+      "archive_url_en": "https://www.86hc.com/en/archive/1964",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1964",
+      "archive_url_sc": "https://www.86hc.com/archive/1964"
+    },
+    {
+      "incorporation_year": 1963,
+      "total_incorporated": 1251,
+      "live_active_count": 227,
+      "dissolved_or_inactive_count": 1024,
+      "active_retention_rate_pct": 18.15,
+      "archive_url_en": "https://www.86hc.com/en/archive/1963",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1963",
+      "archive_url_sc": "https://www.86hc.com/archive/1963"
+    },
+    {
+      "incorporation_year": 1962,
+      "total_incorporated": 1071,
+      "live_active_count": 230,
+      "dissolved_or_inactive_count": 841,
+      "active_retention_rate_pct": 21.48,
+      "archive_url_en": "https://www.86hc.com/en/archive/1962",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1962",
+      "archive_url_sc": "https://www.86hc.com/archive/1962"
+    },
+    {
+      "incorporation_year": 1961,
+      "total_incorporated": 862,
+      "live_active_count": 138,
+      "dissolved_or_inactive_count": 724,
+      "active_retention_rate_pct": 16.01,
+      "archive_url_en": "https://www.86hc.com/en/archive/1961",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1961",
+      "archive_url_sc": "https://www.86hc.com/archive/1961"
+    },
+    {
+      "incorporation_year": 1960,
+      "total_incorporated": 644,
+      "live_active_count": 118,
+      "dissolved_or_inactive_count": 526,
+      "active_retention_rate_pct": 18.32,
+      "archive_url_en": "https://www.86hc.com/en/archive/1960",
+      "archive_url_tc": "https://www.86hc.com/tc/archive/1960",
+      "archive_url_sc": "https://www.86hc.com/archive/1960"
+    }
+  ]
+}
