@@ -4,6 +4,7 @@
 [![TCSP Licence](https://img.shields.io/badge/TCSP%20Licence-TC006431-1d6ff2.svg?style=flat-square)](https://www.tcsp.cr.gov.hk/tcspls/search/public-search?k=TC006431)
 [![Format](https://img.shields.io/badge/Format-CSV%20%26%20JSON-059669.svg?style=flat-square)](https://github.com/86hc-compliance/hk-statutory-compliance-datasets)
 [![Official Source](https://img.shields.io/badge/Compiled%20by-86hc.com-1d6ff2.svg?style=flat-square)](https://www.86hc.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23722562.svg)](https://doi.org/10.5281/zenodo.23722562)
 
 Curated, machine-readable reference and macro-statistical datasets for **Hong Kong corporate compliance, KYB/AML due diligence, statutory form verification (Cap. 622), Business Registration (Cap. 310), and regulatory license screening**.
 
